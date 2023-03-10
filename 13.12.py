@@ -126,7 +126,7 @@ if __name__ == "__main__":
                         j = x - 1 + abs(x_min)
                     else:
                         j = x - 1 - x_min
-                    rects_area[i][j] = 1
+                    rects_area[i][j] = 1 
                     
     area = 0
     for row in rects_area:
