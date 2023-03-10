@@ -118,7 +118,16 @@ if __name__ == "__main__":
             for rect in spisokRect:
                 if rect.A.get_x() < x <= rect.C.get_x() and \
                     rect.A.get_y() < y <= rect.C.get_y():
-                    rects_area[y+abs(y_min)-1][x+abs(x_min)-1] = 1
+                    if  y_min <= 0:
+                        i = y - 1 + abs(y_min) 
+                    else:
+                        i = y - 1 - y_min
+                    if x_min <= 0:
+                        j = x - 1 + abs(x_min)
+                    else:
+                        j = x - 1 - x_min
+                    rects_area[i][j] = 1
+                    
     area = 0
     for row in rects_area:
         area += row.count(1)
