@@ -53,11 +53,6 @@ class Polynom:
 if __name__ == "__main__":
     p1 = Polynom()
     p1.input()
-    p2 = Polynom()
-    p2.input()
+    print(p1.calculate(4))
 
-    print(p1)
-    print(p2)
-
-    p3 = p1 + p2*p1 - p2
-    print(p3)
+    
