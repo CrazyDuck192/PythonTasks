@@ -130,7 +130,7 @@ if __name__ == "__main__":
     for rect in rects:
         rect[0].draw()
         rect[0].move(rect[1], rect[2])
-    turtle.exitonclick()
+    turtle.exitonclick() 
 
     
 
