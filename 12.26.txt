@@ -1,0 +1,6 @@
+Car Spain 1000
+Airplane Italy 450
+Car Ukraine 320
+Ship Ukraine 240
+Ship USA 115
+Car Italy 410
