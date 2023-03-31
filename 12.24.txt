@@ -1,0 +1,10 @@
+3 red iron
+5 green iron 
+5 blue wood
+7 red cardboard
+6 blue iron
+2 green cardboard
+4 red wood
+8 yellow wood
+2 blue cardboard
+6 yellow iron
