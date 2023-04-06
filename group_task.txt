@@ -1,0 +1,4 @@
+Surname {}
+Gender [male,female]
+Age {}
+Student [yes,no]
