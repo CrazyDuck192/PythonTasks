@@ -1,0 +1,30 @@
+[
+    {
+        "surname": "aaaa",
+        "name": "bb",
+        "marks": {
+            "programming": 80
+        },
+        "course": 1,
+        "byear": 2005
+    },
+    {
+        "surname": "abab",
+        "name": "bg",
+        "marks": {
+            "programming": 98
+        },
+        "course": 3,
+        "byear": 2003,
+        "scholarship": 2550
+    },
+    {
+        "surname": "qwerty",
+        "name": "aaa",
+        "marks": {
+            "programming": 77
+        },
+        "course": 1,
+        "byear": 2005
+    }
+]
