@@ -1,0 +1,17 @@
+{
+    "_lst": {
+        "Player 1": {
+            "__class__": "Guesser",
+            "points": 4,
+            "name": "avjj"
+        },
+        "Player 2": {
+            "__class__": "Guesser",
+            "points": 5,
+            "name": "abbd"
+        }
+    },
+    "_cur": 0,
+    "word": "watermelon",
+    "guessed": "watermelo*"
+}
